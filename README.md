@@ -46,31 +46,12 @@
 ## 📱 Sociales
 
 <p align="left">
-  <a href="https://instagram.com/tu_usuario">
+  <a href="https://instagram.com/lucasmussii">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff" alt="Instagram"/>
   </a>
-  <a href="https://twitter.com/tu_usuario">
+  <a href="https://twitter.com/lucasmussi6">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff" alt="Twitter"/>
   </a>
 </p>
 
 ---
-
-## 🎧 Ahora escuchando
-
-<p align="left">
-  <img src="https://github-readme-now-playing.vercel.app/api/spotify?user=tu_spotify_usuario" alt="Now Playing"/>
-</p>
-
----
-
-## 📌 Proyectos Destacados
-
-<p align="left">
-  <a href="https://github.com/tu_usuario/proyecto1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tu_usuario&repo=proyecto1" alt="Proyecto 1"/>
-  </a>
-  <a href="https://github.com/tu_usuario/proyecto2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tu_usuario&repo=proyecto2" alt="Proyecto 2"/>
-  </a>
-</p>
