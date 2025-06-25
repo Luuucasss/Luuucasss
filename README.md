@@ -1,8 +1,3 @@
-<!-- FOTO CIRCULAR -->
-<p align="center">
-  <img src="[https://tu-dominio.com/tu-foto.jpg](https://media.discordapp.net/attachments/608711490223996995/1381240504880070746/f57cbdeb8ee3cf05b6566a5aac36f9b5.jpg?ex=685c8cb6&is=685b3b36&hm=b88d371cb70150f13462441bcd1db2f0e60d76be1210995b49286b39fbdd8e1b&=&format=webp)" width="200" style="border-radius:50%;" alt="Lucas"/>
-</p>
-
 # ¡Hola! Soy Tu Lucas 👋
 
 **`Desarrollador Full-Stack | Apasionado por el código y la automatización`**
