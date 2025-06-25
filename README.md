@@ -2,7 +2,7 @@
 
 **`Desarrollador Full-Stack | Apasionado por el código y la automatización`**
 
-- 🔭 Programando desde 20XX  
+- 🔭 Programando desde 2024  
 - 🌱 Enfocado en desarrollar mi propio software  
 - 📫 Contáctame por [Discord](https://discord.com/users/szykod1)  
 - 💬 Técnica: HTML, CSS, TailwindCSS, PHP, JavaScript, Java, Lua, C#, Python  
